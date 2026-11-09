@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=unblending_cuda
+X-Python-2-Compatible=false
+Name=Unblending CUDA
+Comment=Decompose the current image into editable paint layers
