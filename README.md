@@ -1,5 +1,7 @@
 # Unblending for Krita
 
+> **Independent project.** This Krita plugin has no affiliation with Yuki Koyama or the original Unblending project. It uses a fork of the original Unblending library developed by Yuki Koyama. [Original Unblending repository](https://github.com/yuki-koyama/unblending)
+
 A Krita docker that uses the Unblending SDK to decompose an image into editable paint layers. It uses Krita's Python 3 and PyQt5 bindings. The complete workflow was tested on Windows x64 with Krita 5.3.4.
 
 ## Build the native SDK
